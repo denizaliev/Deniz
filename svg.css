@@ -1,0 +1,8 @@
+nav{display: flex;width: 100%; justify-content: space-between;padding: 16px; box-sizing: border-box; align-items: center;}
+a{text-decoration: none;color:white;}
+svg{height: 20px;width: 83px;color: white;}
+button{outline: none;border: none;background: none;color: white;font-family: Nata Sans;font-size: 16px;font-weight: 500;}
+body{background: black;font-family: Nata Sans;}
+#left{align-items: center;display: flex;gap: 16px;}
+#white-buttons{background-color: white;color: black;border-radius: 4px;padding: 10px;}
+#hite-buttons:hover{transition-duration: 1.2s;background-color: rgba(255, 255, 255, 0.5);}
